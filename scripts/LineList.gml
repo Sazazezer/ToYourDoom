@@ -1,0 +1,7 @@
+credits[1] ="Made by Matt Staples"
+credits[2] ="A Part of workHte Inc."
+credits[3] ="Playtested by Chris Williams (i guess)"
+credits[4] ="That's it. We're done."
+credits[5] ="Go away."
+credits[6] ="We're deleting your save file by the way"
+credits[7] ="Go play something else."
